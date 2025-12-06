@@ -1,6 +1,6 @@
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f2937&height=120&section=header&text=DystopiaScripy&fontSize=40&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f2937&height=120&section=header&text=Jasher%20Abraham&fontSize=40&fontColor=ffffff)
 
-Hi, I'm **DystopiaScripy** 👋  
+Hi, I'm **Jasher** 👋  
 Computer Systems Engineering student focusing on **cybersecurity**, **backend development**, and **modern web technologies**.
 
 ---
@@ -8,9 +8,9 @@ Computer Systems Engineering student focusing on **cybersecurity**, **backend de
 ## 🔎 About Me
 
 - Experienced with **Linux (including Kali)**, network traffic analysis, and SQL injection testing using tools like `sqlmap`.  
-- Backend development with **Node.js & Express**, and frontend experience with **React**.  
+- Backend development with **Node.js & Express**, plus frontend experience with **React**.  
 - Basic embedded systems work using **Arduino** and **ESP32**, including a small project connecting two network antennas.  
-- Currently improving my English to prepare for advanced studies in cybersecurity.
+- Currently improving my English to pursue advanced studies in cybersecurity.
 
 ---
 
@@ -28,9 +28,18 @@ Computer Systems Engineering student focusing on **cybersecurity**, **backend de
 
 ## 📊 GitHub Stats
 
-> Si tus stats aparecen en blanco, probablemente tu usuario no sea `DystopiaScripy` en GitHub.  
-> Cámbialo por tu nombre EXACTO de GitHub en `username=`.
+![Stats](https://github-readme-stats.vercel.app/api?username=jasher&show_icons=true&theme=tokyonight&hide_title=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasher&layout=compact&theme=tokyonight)
 
-```md
-![Stats](https://github-readme-stats.vercel.app/api?username=DystopiaScripy&show_icons=true&theme=tokyonight&hide_title=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DystopiaScripy&layout=compact&theme=tokyonight)
+---
+
+## 📫 Contact
+
+Feel free to connect with me on **LinkedIn** or contact me via email:
+
+**LinkedIn:** https://www.linkedin.com/in/TU-USUARIO  
+**Email:** TU_CORREO@outlook.com  
+
+---
+
+Thanks for visiting my profile!
