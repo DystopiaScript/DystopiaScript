@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi there, I'm Jasher 👋
 
-<!--
-**DystopiaScript/DystopiaScript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Systems Engineering student focused on cybersecurity, backend development, and system-level projects.
 
-Here are some ideas to get you started:
+🛡️ Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linux & Kali user
+
+Network traffic analysis
+
+SQL injection testing (sqlmap, PostgreSQL, boolean-based blind)
+
+💻 Development
+
+Backend with Node.js & Express
+
+Frontend experience with React
+
+Modular API design and authentication flows
+
+🔧 Embedded Systems
+
+Z80 microprocessor
+
+ADC0804, LM35 sensor
+
+LCD interfacing & binary-to-ASCII conversion
+
+📚 Currently
+
+Improving my English and expanding my knowledge in cybersecurity and software engineering.
