@@ -28,7 +28,7 @@ Computer Systems Engineering student focusing on **cybersecurity**, **backend de
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DystopiaScript&show_icons=true&theme=tokyonight)
+![Metrics](https://metrics.lecoq.io/DystopiaScript)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DystopiaScript&layout=compact&theme=tokyonight)
 
 ---
