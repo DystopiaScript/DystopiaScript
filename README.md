@@ -28,8 +28,8 @@ Computer Systems Engineering student focusing on **cybersecurity**, **backend de
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jasher&show_icons=true&theme=tokyonight&hide_title=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasher&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=DistopiaScript&show_icons=true&theme=tokyonight&hide_title=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DistopiaScript&layout=compact&theme=tokyonight)
 
 ---
 
@@ -37,8 +37,8 @@ Computer Systems Engineering student focusing on **cybersecurity**, **backend de
 
 Feel free to connect with me on **LinkedIn** or contact me via email:
 
-**LinkedIn:** https://www.linkedin.com/in/TU-USUARIO  
-**Email:** TU_CORREO@outlook.com  
+**LinkedIn:** https://www.linkedin.com/in/jasherdev  
+**Email:** jasher.dev@outlook.com  
 
 ---
 
