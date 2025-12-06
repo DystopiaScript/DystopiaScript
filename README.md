@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f2937&height=120&section=header&text=Jasher%20Abraham&fontSize=40&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f2937&height=120&section=header&text=Jasher%fontSize=40&fontColor=ffffff)
 
 Hi, I'm **Jasher** 👋  
 Computer Systems Engineering student focusing on **cybersecurity**, **backend development**, and **modern web technologies**.
